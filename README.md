@@ -7,11 +7,11 @@
 Get the PSN API keys: First, you'll need to obtain the PSN API keys. You can do this by creating a developer account on the Sony Developer Network and registering your application. Once you've registered, you'll receive a client ID and client secret, which you'll use to authenticate your API requests.
 
 Install required libraries: You'll need to install the requests and json libraries for Python. You can do this by running the following commands in your terminal:
-
+##
 pip install requests
 
 pip install json
-
+##
 Download the spoofer script in releases.
 
 Run the script in the zip file: Download the ZIP file and run it using Python:
